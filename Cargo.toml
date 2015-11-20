@@ -1,0 +1,6 @@
+[package]
+name = "readctivesocket-rust"
+version = "0.1.0"
+authors = ["Robert Maloney <robert.maloney@mycase.com>"]
+
+[dependencies]
